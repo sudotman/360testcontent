@@ -8,11 +8,11 @@
 
 ![Color coded test](/set0/equi.jpg)
 
-## Set 1: Orion360 Cube (by Finwe) 
+## Set 1: Orion360 Cube (pack by Finwe) 
 
 ![alt tag](/set1/equi/Orion360_test_image_1024x512.jpg)
 
-The original cube face image was created with a vector graphics software Inkscape, and exported as a 4096×4096 tiff file. It was then labeled for each cube face in Photoshop, and exported as six PNG files. These files were stitched with PTGui and exported as multiple resolution JPGs using equirectangular projection. Finally, the videos were created with ffmpeg from the same resolution equirectangular source image. (cloned from https://github.com/FinweLtd/orion360-sdk-test-content)
+The original cube face image was created with a vector graphics software Inkscape, and exported as a 4096×4096 tiff file. It was then labeled for each cube face in Photoshop, and exported as six PNG files. These files were stitched with PTGui and exported as multiple resolution JPGs using equirectangular projection. Finally, the videos were created with ffmpeg from the same resolution equirectangular source image. 
 
 ### Source image:
 
