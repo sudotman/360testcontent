@@ -6,7 +6,7 @@
 
 ## Set 0: 
 
-[Color coded test](/set0/equi.jpg)
+![Color coded test](/set0/equi.jpg)
 
 ## Set 1: Orion360 Cube (by Finwe) (cloned from https://github.com/FinweLtd/orion360-sdk-test-content)
 
